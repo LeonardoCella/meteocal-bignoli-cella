@@ -28,5 +28,5 @@ Source code has been released in form of a NetBeans project that can be imported
 
 The project was developed by Andrea Bignoli and Leonardo Cella, in the context of the 2014 Software Engineering 2 course at Politecnico di Milano.
 
-For any information, feel free to contact me at andrea.bignoli@gmail.com.
+For any information, feel free to contact us at andrea.bignoli@gmail.com , leonardocella@gmail.com.
 
